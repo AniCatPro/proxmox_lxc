@@ -27,7 +27,7 @@ chmod +x create-lxc-dockge.sh
 
 ### 4. Запусти скрипт
 ```bash
-chmod +x create-lxc-dockge.sh
+./create-lxc-dockge.sh
 ```
 
 > [!TIP]
